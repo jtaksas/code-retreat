@@ -1,11 +1,10 @@
 package com.expedia.coderetreat;
 
-import org.testng.annotations.Test;
+import org.junit.Test;
 
 import static org.testng.Assert.assertEquals;
 
-@Test(groups = "unit")
-public class UnitTestSpec {
+public class JunitTest {
 
     @Test
     public void sampleTest() {
