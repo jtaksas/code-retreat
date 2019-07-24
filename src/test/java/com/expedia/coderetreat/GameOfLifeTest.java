@@ -4,7 +4,7 @@ import org.junit.Test;
 
 import static org.testng.Assert.assertEquals;
 
-public class JunitTest {
+public class GameOfLifeTest {
 
     @Test
     public void sampleTest() {
